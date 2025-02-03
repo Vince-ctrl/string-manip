@@ -7,7 +7,7 @@ public class App {
         int c = 1;
         int i = 0;
         //input
-        System.out.println("please enter any text below 20 words");
+        System.out.println("please enter any text");
         preSplit = input.nextLine();
         //counting the amount of words
         while (i < preSplit.length()) {
